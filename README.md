@@ -2,8 +2,6 @@
 
 # TPMS Builder - Blender
 
-![TPMS Builder Banner]
-
 Procedural tool designed to generate complex geometric lattices and Triply Periodic Minimal Surfaces (Gyroid, Schwarz, BCC) optimized for 3D printing.
 
 ## Features
