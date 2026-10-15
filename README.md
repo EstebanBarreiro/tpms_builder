@@ -1,6 +1,6 @@
 # TPMS Builder - Blender
 
-![TPMS Builder Banner]C:\Users\Esteban\Documents\Scripts y Extensiones personalizadas\Google Gemini\Addons\TPMS Builder\imag web\imagen git
+![TPMS Builder Banner]
 
 Procedural tool designed to generate complex geometric lattices and Triply Periodic Minimal Surfaces (Gyroid, Schwarz, BCC) optimized for 3D printing.
 
