@@ -1,3 +1,5 @@
+<img width="1701" height="1086" alt="compo1" src="https://github.com/user-attachments/assets/575fe9eb-a36a-4d5d-bd9b-ffbcbd30b9cd" />
+
 # TPMS Builder - Blender
 
 ![TPMS Builder Banner]
