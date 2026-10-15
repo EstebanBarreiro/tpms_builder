@@ -1,0 +1,46 @@
+# ==========================================
+# Archivos temporales y compilados de Python
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ==========================================
+# Entornos virtuales de Python
+# ==========================================
+.venv/
+venv/
+ENV/
+env/
+
+# ==========================================
+# Archivos temporales y respaldos de Blender
+# ==========================================
+*.blend1
+*.blend2
+*.blend3
+*.blend@
+*.blend@1
+*.blend
+
+# ==========================================
+# Paquetes zip empaquetados
+# ==========================================
+# Ignora los archivos ZIP generados para no subir compilados al historial de Git
+*.zip
+
+# ==========================================
+# Configuración de Editores / IDEs
+# ==========================================
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm / JetBrains
+.idea/
+
+# OS / Sistema Operativo
+.DS_Store
+Thumbs.db
+desktop.ini
